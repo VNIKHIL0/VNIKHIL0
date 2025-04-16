@@ -23,13 +23,15 @@ Machine Learning:(Learning more...)
 Databases: MongoDB , SQLite (Learning more...)
 
 
-🏗️ Projects
+🏗️ Projects :
+
 🌐 Online Learning Platform (Building a Python course)
 
-🤖 Smart Shopping Multi-Agent AI Project (a product recommendation model)
+🤖 Smart Shopping Multi-Agent AI Project (a product recommendation model) Link: https://frontend-for-product-recommendation.onrender.com/
 
 
-🎖️ Certifications
+🎖️ Certifications :
+
 🏅 IBM Generative AI for Software Development
 
 🏅 Google Generative AI Badge
