@@ -1,7 +1,8 @@
 💻 Welcome to My GitHub!
 Hey there! I'm NIKHIL.V, a passionate AI & ML enthusiast, web developer, and UI/UX designer. I love building intelligent systems, designing user-friendly interfaces, and working on innovative projects.
 
-🚀 About Me
+🚀 About Me :
+
 🎓 Completed a Diploma in AI & ML at Thiagarajar Polytechnic College
 
 🎓 Former B.Tech AI & ML student at Karpagam College of Engineering
@@ -11,7 +12,8 @@ Hey there! I'm NIKHIL.V, a passionate AI & ML enthusiast, web developer, and UI/
 💡 Interested in Machine Learning, Web Development, UI/UX.
 
 
-🔥 Skills
+🔥 Skills :
+
 Programming: Python, Java, JavaScript
 
 Web Development: HTML, CSS, JavaScript (Learning MERN Stack)
