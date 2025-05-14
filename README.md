@@ -29,7 +29,7 @@ Databases: MongoDB , SQLite (Learning more...)
 
 💼 My Portfolio Link : https://my-portfolio-tcwx.onrender.com/
 
-🌐 Online Learning Platform (Building a Python course)
+🌐 Online Learning Platform
 
 🤖 Smart Shopping Multi-Agent AI Project (a product recommendation model) Link: https://frontend-for-product-recommendation.onrender.com/
 
