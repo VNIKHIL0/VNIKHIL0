@@ -12,6 +12,9 @@ Hey there! I'm NIKHIL.V, a passionate AI & ML enthusiast, web developer, and UI/
 💡 Interested in Machine Learning, Web Development, UI/UX.
 
 
+💼 My Portfolio Link : https://my-portfolio-tcwx.onrender.com/
+
+
 🔥 Skills :
 
 Programming: Python, Java, JavaScript
@@ -23,15 +26,6 @@ UI/UX Design: Figma
 Machine Learning:(Learning more...)
 
 Databases: MongoDB , SQLite (Learning more...)
-
-
-🏗️ Projects :
-
-💼 My Portfolio Link : https://my-portfolio-tcwx.onrender.com/
-
-🌐 Online Learning Platform
-
-🤖 Smart Shopping Multi-Agent AI Project (a product recommendation model) Link: https://frontend-for-product-recommendation.onrender.com/
 
 
 🎖️ Certifications :
