@@ -12,8 +12,7 @@ Hey there! I'm NIKHIL.V, a passionate AI & ML enthusiast, web developer, and UI/
 💡 Interested in Machine Learning, Web Development, UI/UX.
 
 
-💼 My Portfolio Link : https://my-portfolio-tcwx.onrender.com/
-
+💼 My Portfolio Link : https://nikhilportfolio-iota.vercel.app/
 
 🔥 Skills :
 
